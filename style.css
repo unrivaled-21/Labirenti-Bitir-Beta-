@@ -1,0 +1,15 @@
+/* style.css */
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #222;
+    height: 100vh;
+}
+
+canvas {
+    background-color: #111; /* Oyun alanı için koyu arka plan */
+    border: 2px solid #fff;
+    box-shadow: 0 0 10px #00ff00;
+}
